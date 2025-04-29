@@ -36,6 +36,7 @@ Esse projeto foi uma excelente oportunidade para aplicar e expandir meus conheci
 **Avante!** 🚀
 
 🔗 Dataset utilizado: [Brazilian E-commerce Public Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 🗺️ Schema de Dados
 
 Abaixo está o diagrama representando a relação entre as principais tabelas utilizadas na análise:
